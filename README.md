@@ -14,10 +14,12 @@
 
 
 ## 群指定图书:
-- 《薛兆丰经济学讲义》
+- 《薛兆丰经济学讲义》  
 https://item.jd.com/12389533.html
 - 《悠游度过一天的24小时》 Kindle电子书  
 https://www.amazon.cn/dp/B008N4P8MK/
+- 《全球科技通史》(吴军)  
+https://www.amazon.cn/dp/B07PY7XV42/
 
 ## 每月一本经典  
 
