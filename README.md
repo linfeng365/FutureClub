@@ -14,9 +14,9 @@
 
 
 ## 群指定图书:
-《薛兆丰经济学讲义》
+- 《薛兆丰经济学讲义》
 https://item.jd.com/12389533.html
-《悠游度过一天的24小时》 Kindle电子书  
+- 《悠游度过一天的24小时》 Kindle电子书  
 https://www.amazon.cn/dp/B008N4P8MK/
 
 ## 每月一本经典  
@@ -25,6 +25,7 @@ https://www.amazon.cn/dp/B008N4P8MK/
 → 2月 《孙子兵法》https://hanyu.baidu.com/s?wd=%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95&from=poem  
 → 3月 《佛陀的啟示》 很好的，通俗的小册子。（在线阅读 → http://www.fosss.org/Book/FoTuoDeQiShi/Index.html）  
 → 4月 《论语》全文 http://www.ldbj.com/lunyu/lunyuquanwen.htm (带注释:http://www.chinapoesy.com/Other30e328fa-fa12-4cab-afca-53abefce9dfa.html)  
+→ 5月 《唐诗三百首》 https://so.gushiwen.org/gushi/tangshi.aspx
 
 
 
