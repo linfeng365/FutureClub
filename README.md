@@ -29,7 +29,7 @@ https://www.amazon.cn/dp/B07PY7XV42/
 → 3月 《佛陀的啟示》 很好的，通俗的小册子。（在线阅读 → http://www.fosss.org/Book/FoTuoDeQiShi/Index.html）  
 → 4月 《论语》全文 http://www.ldbj.com/lunyu/lunyuquanwen.htm (带注释:http://www.chinapoesy.com/Other30e328fa-fa12-4cab-afca-53abefce9dfa.html)  
 → 5月 《唐诗三百首》 https://so.gushiwen.org/gushi/tangshi.aspx
-
+→ 6月 《史记》 https://m.gushiwen.org/guwen/book_5.aspx
 
 
 ChangeLog:  
